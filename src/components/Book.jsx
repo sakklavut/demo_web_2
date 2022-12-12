@@ -24,7 +24,7 @@ const Book = () => {
                     </div>
                </div>
                <div className='flex flex-col my-2 p-2 w-full'>
-                    <label>Search</label>
+                    <label>Searchddddddddddddddd</label>
                     <button>Rates & Avai</button>
                </div>
           </from>
